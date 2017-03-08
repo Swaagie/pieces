@@ -10,9 +10,9 @@
   "license": "ISC",
   "dependencies": {
     "bigpipe": "~0.9.10",
-    "diagnostics": "~1.0.1",
+    "diagnostics": "~1.1.0",
     "pagelet": "~0.9.3",
-    "react-jsx": "~0.13.0",
+    "react-jsx": "~1.0.0",
     "reacts": "0.0.0"
   }
 }
